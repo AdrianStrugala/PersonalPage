@@ -1,0 +1,17 @@
+@CHARSET "ISO-8859-1";
+
+
+
+h1 {
+	color: red;
+	text-allign: center;
+}
+
+.main{
+	background-image: url("images/dxc.jpg");
+	font-size: 70px;
+	color: #c0c0c0;
+	background-attachment: fixed;
+	background-size: contain;
+	
+}
