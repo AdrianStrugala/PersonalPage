@@ -1,17 +1,35 @@
 @CHARSET "ISO-8859-1";
 
-
-
 h1 {
-	color: red;
-	text-allign: center;
+	color: white;
+	width: 20%;
+	text-align: center;
+	margin: 0;
 }
 
-.main{
+h2 {
+	color: white;
+}
+
+.music {
+	right: 0;
+	position: fixed;
+	width: 30%;
+}
+
+.contact {
+	margin: 1%;
+	text-align :center;
+	right: 0;
+	position: absolute;
+	border-style: solid;
+	
+	width: 19%
+}
+
+.main {
 	background-image: url("images/dxc.jpg");
-	font-size: 70px;
 	color: #c0c0c0;
 	background-attachment: fixed;
 	background-size: contain;
-	
 }
