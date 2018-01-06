@@ -1,0 +1,134 @@
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\ApplicationInsights.config
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\roslyn\csc.exe
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\roslyn\csc.exe.config
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\roslyn\csc.rsp
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\roslyn\csi.exe
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\roslyn\csi.rsp
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\roslyn\System.AppContext.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\roslyn\vbc.exe
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\roslyn\vbc.exe.config
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\roslyn\vbc.rsp
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\roslyn\VBCSCompiler.exe
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\adrianstrugala.dll.config
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\adrianstrugala.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\adrianstrugala.pdb
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\Antlr3.Runtime.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\Microsoft.AI.Web.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\Newtonsoft.Json.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\System.Web.Helpers.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\System.Web.Mvc.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\System.Web.Optimization.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\System.Web.Razor.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\System.Web.WebPages.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\System.Web.WebPages.Razor.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\WebGrease.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\System.Web.Helpers.xml
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\System.Web.Mvc.xml
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\System.Web.Optimization.xml
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\System.Web.Razor.xml
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\System.Web.WebPages.xml
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\System.Web.WebPages.Razor.xml
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\Antlr3.Runtime.pdb
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\Newtonsoft.Json.xml
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\bin\Microsoft.AI.Web.xml
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\obj\Debug\adrianstrugala.dll
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\obj\Debug\adrianstrugala.pdb
+C:\Users\Adrian\documents\visual studio 2017\Projects\personalWebPage\adrianstrugala\obj\Debug\adrianstrugala.csprojResolveAssemblyReference.cache
+D:\GitHub\Personalpage\src\adrianstrugala\bin\ApplicationInsights.config
+D:\GitHub\Personalpage\src\adrianstrugala\bin\roslyn\csc.exe
+D:\GitHub\Personalpage\src\adrianstrugala\bin\roslyn\csc.exe.config
+D:\GitHub\Personalpage\src\adrianstrugala\bin\roslyn\csc.rsp
+D:\GitHub\Personalpage\src\adrianstrugala\bin\roslyn\csi.exe
+D:\GitHub\Personalpage\src\adrianstrugala\bin\roslyn\csi.rsp
+D:\GitHub\Personalpage\src\adrianstrugala\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GitHub\Personalpage\src\adrianstrugala\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GitHub\Personalpage\src\adrianstrugala\bin\roslyn\System.AppContext.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\roslyn\System.Collections.Immutable.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\roslyn\System.IO.FileSystem.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\roslyn\System.Reflection.Metadata.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\roslyn\vbc.exe
+D:\GitHub\Personalpage\src\adrianstrugala\bin\roslyn\vbc.exe.config
+D:\GitHub\Personalpage\src\adrianstrugala\bin\roslyn\vbc.rsp
+D:\GitHub\Personalpage\src\adrianstrugala\bin\roslyn\VBCSCompiler.exe
+D:\GitHub\Personalpage\src\adrianstrugala\bin\roslyn\VBCSCompiler.exe.config
+D:\GitHub\Personalpage\src\adrianstrugala\bin\adrianstrugala.dll.config
+D:\GitHub\Personalpage\src\adrianstrugala\bin\adrianstrugala.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\adrianstrugala.pdb
+D:\GitHub\Personalpage\src\adrianstrugala\bin\Antlr3.Runtime.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\Microsoft.AI.Agent.Intercept.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\Microsoft.AI.DependencyCollector.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\Microsoft.AI.Web.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\Microsoft.AI.WindowsServer.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\Microsoft.ApplicationInsights.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\Microsoft.Web.Infrastructure.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\Newtonsoft.Json.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\System.Web.Helpers.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\System.Web.Mvc.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\System.Web.Optimization.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\System.Web.Razor.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\System.Web.WebPages.Deployment.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\System.Web.WebPages.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\System.Web.WebPages.Razor.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\WebGrease.dll
+D:\GitHub\Personalpage\src\adrianstrugala\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GitHub\Personalpage\src\adrianstrugala\bin\System.Web.Helpers.xml
+D:\GitHub\Personalpage\src\adrianstrugala\bin\System.Web.Mvc.xml
+D:\GitHub\Personalpage\src\adrianstrugala\bin\System.Web.Optimization.xml
+D:\GitHub\Personalpage\src\adrianstrugala\bin\System.Web.Razor.xml
+D:\GitHub\Personalpage\src\adrianstrugala\bin\System.Web.WebPages.xml
+D:\GitHub\Personalpage\src\adrianstrugala\bin\System.Web.WebPages.Deployment.xml
+D:\GitHub\Personalpage\src\adrianstrugala\bin\System.Web.WebPages.Razor.xml
+D:\GitHub\Personalpage\src\adrianstrugala\bin\Antlr3.Runtime.pdb
+D:\GitHub\Personalpage\src\adrianstrugala\bin\Newtonsoft.Json.xml
+D:\GitHub\Personalpage\src\adrianstrugala\bin\Microsoft.ApplicationInsights.xml
+D:\GitHub\Personalpage\src\adrianstrugala\bin\Microsoft.AI.DependencyCollector.xml
+D:\GitHub\Personalpage\src\adrianstrugala\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\GitHub\Personalpage\src\adrianstrugala\bin\Microsoft.AI.WindowsServer.xml
+D:\GitHub\Personalpage\src\adrianstrugala\bin\Microsoft.AI.Web.xml
+D:\GitHub\Personalpage\src\adrianstrugala\obj\Debug\adrianstrugala.csprojResolveAssemblyReference.cache
+D:\GitHub\Personalpage\src\adrianstrugala\obj\Debug\adrianstrugala.dll
+D:\GitHub\Personalpage\src\adrianstrugala\obj\Debug\adrianstrugala.pdb
