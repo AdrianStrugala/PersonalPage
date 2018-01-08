@@ -20,8 +20,8 @@ h2 {
 .contact {
 	margin: 1%;
 	text-align :center;
-	right: 0;
-	position: absolute;
+	left: 0;
+	position: relative;
 	border-style: solid;
 	
 	width: 19%
@@ -33,3 +33,62 @@ h2 {
 	background-attachment: fixed;
 	background-size: contain;
 }
+
+
+.row{
+	color: black;
+	font-weight: bold;
+	text-align: center;
+	margin: 0;
+	font-size: 35px;
+}
+
+
+
+.slideStage{
+	width: 720px;
+	overflow: hidden;
+}
+
+
+.slider{
+	
+	width: 7200px;
+	display: block;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+
+.slide{
+	float:left;
+	list-style-type: none;
+	max-width: 720px;
+	
+    width: auto;
+    height: auto;  
+     
+}
+
+.picture{
+	float:left;
+	list-style-type: none;
+	max-width: 720px; 
+	
+    width: auto; 
+    height: auto; 
+   
+}
+
+.space{
+	height: 8em;
+	display: block;
+}
+
+.description{
+	color: DarkSlateGray;
+	font-size: 20px;
+	text-align: left;
+	}
+
